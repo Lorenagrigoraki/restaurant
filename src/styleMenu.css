@@ -1,0 +1,29 @@
+:root{
+    --orange:#F5A834;
+    --green:#2FAF1A;
+}
+.mealsMenu{
+    background-color: var(--green);
+}
+h2{
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    font-size: 32px;
+}
+.mealsCard{
+    background-color: white;
+    border: 2px solid white;
+}
+.mealsMenu img{
+    width: 180px;
+}
+.divName{
+    height: 25px;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+.divPrice, .divDescr{
+    font-size: 17px;
+}
